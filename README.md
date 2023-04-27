@@ -30,5 +30,7 @@ cu alți colegi printr-o interfață grafică. În contextul actual, Covid 19, a
 să observe în mod grafic care sunt colegii de birou ai acestuia. Sistemul va permite
 administratorului să genereze rapoarte grafice cu diferiți parametri măsurați pentru unul sau
 mai mulți angajați.
+
 În Figura 1 este prezentată arhitectura sistemului:
 
+![Architecture](https://github.com/zitr00/Software_engineering-Smart_View_Acces/blob/main/arhitectura.png)
